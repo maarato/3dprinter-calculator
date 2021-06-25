@@ -6,11 +6,11 @@ export default () => { return (
 		
 		<div class="collapse navbar-collapse " id="menuitems">
 			<ul class="navbar-nav ml-auto">
-				<li class="nav-item"><a href="#" class="nav-link text-white">Inicio</a></li>
+				<li class="nav-item"><a href="http://alexaurio.ddns.net/" class="nav-link text-white">Inicio</a></li>
 				<li class="nav-item"><a href="#" class="nav-link text-white">¿Quien Soy?</a></li>
 				<li class="nav-item"><a href="#" class="nav-link text-white">Proyectos</a></li>
 				<li class="nav-item"><a href="http://alexaurio.ddns.net:3006/" class="nav-link text-white">Panzas en React</a></li>
-				<li class="nav-item"><a href="tienda.html" class="nav-link text-white">Tienda</a></li>
+				<li class="nav-item"><a href="http://alexaurio.ddns.net/tienda.html" class="nav-link text-white">Tienda</a></li>
 				
 			</ul>
 		</div>
